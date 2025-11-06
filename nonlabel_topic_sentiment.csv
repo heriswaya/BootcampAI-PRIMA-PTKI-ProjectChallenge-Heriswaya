@@ -1,0 +1,61 @@
+text,topic,sentiment,sent_norm
+"Barang bagus banget, sesuai deskripsi dan berfungsi dengan baik.",1,positive,pos
+"Kualitas produk jelek, cepat rusak setelah dipakai 2 hari.",1,negative,neg
+"Produk original dan kemasannya aman, sangat puas.",1,positive,pos
+Barang yang datang berbeda warna dari yang dipesan.,1,positive,pos
+Produk cacat tapi respon penjual cepat dan diganti baru.,1,positive,pos
+Barang palsu! Tidak sesuai iklan di toko.,0,negative,neg
+Kualitas oke tapi tidak seperti ekspektasi.,0,negative,neg
+"Barang ringan dan desainnya elegan, suka banget!",-1,positive,pos
+"Kualitas bahan tipis, tidak sesuai harga.",0,negative,neg
+"Barang sangat berkualitas, recommended seller!",-1,positive,pos
+"Pengiriman cepat banget, dua hari langsung sampai.",1,positive,pos
+"Lama banget pengirimannya, sampai seminggu baru datang.",1,positive,pos
+Kurirnya sopan dan ramah.,1,positive,pos
+"Paket diterima dalam kondisi rusak, sangat kecewa.",1,positive,pos
+"Estimasi pengiriman tidak sesuai, molor terus.",-1,negative,neg
+"Barang dikirim dengan packing rapi, aman.",-1,positive,pos
+Nomor resi tidak bisa dilacak sama sekali.,0,negative,neg
+"Sampai lebih cepat dari perkiraan, good job!",-1,positive,pos
+Kardus penyok tapi isi aman.,0,positive,pos
+"Paket hilang, sudah lapor tapi belum ada respon.",-1,positive,pos
+Harga murah banget untuk kualitas sebagus ini.,0,positive,pos
+Harga terlalu mahal dibanding toko lain.,0,positive,pos
+"Promo tidak bisa digunakan, padahal syarat sudah sesuai.",0,negative,neg
+"Diskon palsu, harga dinaikkan dulu baru diturunkan.",0,positive,pos
+Harga wajar dan sesuai kualitas.,0,positive,pos
+Harga oke tapi ongkir mahal banget.,0,positive,pos
+Harga naik tiba-tiba waktu checkout.,-1,positive,pos
+"Harga sesuai deskripsi, transparan dan jujur.",0,positive,pos
+"Harga promo benar-benar membantu, terima kasih!",0,positive,pos
+Harga murah tapi kualitas juga murahan.,0,positive,pos
+Admin cepat tanggap dan sopan.,-1,positive,pos
+"Respon penjual lama banget, harus follow up terus.",0,positive,pos
+Penjual ramah dan informatif.,-1,positive,pos
+CS tidak membantu sama sekali waktu komplain.,0,negative,neg
+Sudah chat tapi tidak dibalas sampai 3 hari.,0,negative,neg
+Customer service profesional dan solutif.,1,negative,neg
+"Penjual memblokir setelah komplain, parah banget!",-1,positive,pos
+Respon cepat dan membantu cari solusi.,-1,positive,pos
+Penjualnya jujur dan fast response.,-1,positive,pos
+Layanan pelanggan kurang responsif.,1,negative,neg
+"Packing sangat rapi dan aman, bubble wrap tebal.",-1,negative,neg
+"Tidak ada bubble wrap sama sekali, barang nyaris rusak.",0,negative,neg
+Dikemas dengan baik dan bersih.,1,positive,pos
+Kotak pengiriman kotor dan basah.,1,negative,neg
+"Packing rapat, aman dari benturan.",-1,positive,pos
+"Barang dibungkus asal-asalan, kecewa.",-1,positive,pos
+Kemasan simple tapi tetap aman.,-1,positive,pos
+Kardus sobek sedikit tapi isi utuh.,0,positive,pos
+Packing cepat dan dikirim hari yang sama.,-1,positive,pos
+"Tidak disegel, khawatir barang tertukar.",0,negative,neg
+"Belanja di toko ini menyenangkan, pelayanan bagus.",-1,positive,pos
+"Sangat kecewa, pengalaman belanja terburuk.",1,positive,pos
+"Sudah sering beli di sini, selalu memuaskan.",-1,positive,pos
+"Sekali beli langsung kapok, tidak akan ulang lagi.",0,negative,neg
+Proses pembelian mudah dan cepat.,-1,positive,pos
+Website error waktu checkout.,-1,negative,neg
+Aplikasi sering crash saat pilih metode pembayaran.,1,negative,neg
+Transaksi lancar dan tanpa kendala.,-1,positive,pos
+Belanja mudah tapi pengiriman lambat.,1,positive,pos
+"Pengalaman campur aduk, ada plus minusnya.",-1,positive,pos
