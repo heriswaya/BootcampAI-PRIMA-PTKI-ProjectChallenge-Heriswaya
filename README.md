@@ -97,13 +97,6 @@ AI-PRIMA-PTKI-ProjectChallenge-Heriswaya/
 
 ---
 
-## ✉️ Submission
-**Email submit:** digital_bootcamp@ecc.co.id  
-**Subject:** `[Heriswaya] - Tugas Proyek 2 – PRIMA PTKI`  
-**Deadline:** 14 November 2025, 23:59 WIB
-
----
-
 ## 🏁 Kesimpulan
 Model Logistic Regression dengan embedding `all-MiniLM-L6-v2` berhasil mengklasifikasikan sentimen ulasan e-commerce dengan akurasi **70%**.  
 Analisis topik menunjukkan area utama untuk perbaikan, yaitu **pengiriman dan sistem pembayaran**.  
