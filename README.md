@@ -81,6 +81,8 @@ AI-PRIMA-PTKI-ProjectChallenge-Heriswaya/
 │
 ├── Heriswaya_ProjectChallengeAssigment_Sesi8.ipynb # Notebook utama
 ├── laporan.md # Laporan lengkap proyek
+├── data labeling history sentimen.txt # Data Training
+├── data non label ecommerce.txt # Data non-label untuk analisis 
 ├── labeled_clean.csv # Dataset labeled setelah pembersihan
 ├── nonlabel_topic_sentiment.csv # Hasil prediksi sentimen + topik
 ├── sentiment_clf_lr.joblib # Model klasifikasi Logistic Regression
