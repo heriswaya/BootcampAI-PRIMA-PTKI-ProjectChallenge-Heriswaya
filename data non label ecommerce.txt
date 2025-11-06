@@ -1,0 +1,73 @@
+[
+    # Produk / Kualitas Barang
+    "Barang bagus banget, sesuai deskripsi dan berfungsi dengan baik.",
+    "Kualitas produk jelek, cepat rusak setelah dipakai 2 hari.",
+    "Produk original dan kemasannya aman, sangat puas.",
+    "Barang yang datang berbeda warna dari yang dipesan.",
+    "Produk cacat tapi respon penjual cepat dan diganti baru.",
+    "Barang palsu! Tidak sesuai iklan di toko.",
+    "Kualitas oke tapi tidak seperti ekspektasi.",
+    "Barang ringan dan desainnya elegan, suka banget!",
+    "Kualitas bahan tipis, tidak sesuai harga.",
+    "Barang sangat berkualitas, recommended seller!",
+
+    # Pengiriman
+    "Pengiriman cepat banget, dua hari langsung sampai.",
+    "Lama banget pengirimannya, sampai seminggu baru datang.",
+    "Kurirnya sopan dan ramah.",
+    "Paket diterima dalam kondisi rusak, sangat kecewa.",
+    "Estimasi pengiriman tidak sesuai, molor terus.",
+    "Barang dikirim dengan packing rapi, aman.",
+    "Nomor resi tidak bisa dilacak sama sekali.",
+    "Sampai lebih cepat dari perkiraan, good job!",
+    "Kardus penyok tapi isi aman.",
+    "Paket hilang, sudah lapor tapi belum ada respon.",
+
+    # Harga / Promo
+    "Harga murah banget untuk kualitas sebagus ini.",
+    "Harga terlalu mahal dibanding toko lain.",
+    "Promo tidak bisa digunakan, padahal syarat sudah sesuai.",
+    "Diskon palsu, harga dinaikkan dulu baru diturunkan.",
+    "Harga wajar dan sesuai kualitas.",
+    "Harga oke tapi ongkir mahal banget.",
+    "Harga naik tiba-tiba waktu checkout.",
+    "Harga sesuai deskripsi, transparan dan jujur.",
+    "Harga promo benar-benar membantu, terima kasih!",
+    "Harga murah tapi kualitas juga murahan.",
+
+    # Customer Service / Penjual
+    "Admin cepat tanggap dan sopan.",
+    "Respon penjual lama banget, harus follow up terus.",
+    "Penjual ramah dan informatif.",
+    "CS tidak membantu sama sekali waktu komplain.",
+    "Sudah chat tapi tidak dibalas sampai 3 hari.",
+    "Customer service profesional dan solutif.",
+    "Penjual memblokir setelah komplain, parah banget!",
+    "Respon cepat dan membantu cari solusi.",
+    "Penjualnya jujur dan fast response.",
+    "Layanan pelanggan kurang responsif.",
+
+    # Kemasan / Packing
+    "Packing sangat rapi dan aman, bubble wrap tebal.",
+    "Tidak ada bubble wrap sama sekali, barang nyaris rusak.",
+    "Dikemas dengan baik dan bersih.",
+    "Kotak pengiriman kotor dan basah.",
+    "Packing rapat, aman dari benturan.",
+    "Barang dibungkus asal-asalan, kecewa.",
+    "Kemasan simple tapi tetap aman.",
+    "Kardus sobek sedikit tapi isi utuh.",
+    "Packing cepat dan dikirim hari yang sama.",
+    "Tidak disegel, khawatir barang tertukar.",
+
+    # Pengalaman Umum
+    "Belanja di toko ini menyenangkan, pelayanan bagus.",
+    "Sangat kecewa, pengalaman belanja terburuk.",
+    "Sudah sering beli di sini, selalu memuaskan.",
+    "Sekali beli langsung kapok, tidak akan ulang lagi.",
+    "Proses pembelian mudah dan cepat.",
+    "Website error waktu checkout.",
+    "Aplikasi sering crash saat pilih metode pembayaran.",
+    "Transaksi lancar dan tanpa kendala.",
+    "Belanja mudah tapi pengiriman lambat.",
+    "Pengalaman campur aduk, ada plus minusnya."
+]
