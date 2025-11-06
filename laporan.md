@@ -2,7 +2,6 @@
 [![Made with SentenceTransformers](https://img.shields.io/badge/Made%20with-SentenceTransformers-blue?style=flat-square)](https://www.sbert.net/)
 [![Topic Modeling](https://img.shields.io/badge/Powered%20by-BERTopic-orange?style=flat-square)](https://maartengr.github.io/BERTopic/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-yellow?style=flat-square&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 ---
 
