@@ -1,7 +1,7 @@
 # Analisis Sentimen dan Topic Modeling - Project Challenge PRIMA PTKI
 **Author:** Heriswaya  
 **Program:** Bootcamp AI PRIMA PTKI (Sesi 8)  
-**Tanggal:** November 2025  
+**Tanggal:** 06 November 2025  
 
 ---
 
@@ -39,8 +39,10 @@ Pendekatan ini membantu memahami aspek yang paling sering dipuji atau dikeluhkan
 | Recall (neg/pos) | 0.60 / 0.80 |
 
 Confusion Matrix:
+```
 [[3 2]
 [1 4]]
+```
 
 Interpretasi singkat:  
 Model berhasil memisahkan kelas positif dan negatif dengan akurasi 70%.  
@@ -74,6 +76,7 @@ Beberapa topik dominan yang ditemukan:
 ---
 
 ## 📂 Struktur Repository
+```
 AI-PRIMA-PTKI-ProjectChallenge-Heriswaya/
 │
 ├── Heriswaya_ProjectChallengeAssigment_Sesi8.ipynb # Notebook utama
@@ -83,7 +86,7 @@ AI-PRIMA-PTKI-ProjectChallenge-Heriswaya/
 ├── sentiment_clf_lr.joblib # Model klasifikasi Logistic Regression
 ├── bertopic_model/ # Model topic modeling tersimpan
 └── README.md # Dokumentasi ini
-
+```
 ---
 
 ## 🧠 Tools & Library
